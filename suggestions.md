@@ -53,3 +53,4 @@ I [Harpreet Madaan] (https://github.com/harpreet199) I would like to suggest for
 
 I [Prateek](https://github.com/Ocoderdude) suggest you to not memorizing the solutions to the competetive problems, instead understand the logic or the pattern used in the problem. Try to make your code optimised always with good space and time complexity.
 
+I [Mufaro D Kaseke](https://github.com/MufaroDKaseke) suggest you choose a stack carefully and stick to it. There is no reason to learn React Native for example whn you want to do web design. Learn the things only necessary.
